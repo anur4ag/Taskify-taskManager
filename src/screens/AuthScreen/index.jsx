@@ -52,7 +52,7 @@ const AuthScreen = () => {
       }}
     >
       <Stack mb={6} spacing={4} alignItems="center" textAlign="center">
-        <ImageEl src={LogoImg} alt="FlowBoard" />
+        <ImageEl src={LogoImg} alt="Taskify" width={'300'} />
         <Typography color="rgba(255,255,255, .6)">
           Visualize Your Workflow for Increased Productivity.
           <br />
