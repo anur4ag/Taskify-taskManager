@@ -6,7 +6,7 @@
 ### Tech Stack
 
 - Node.js and npm
-- MongoDB
+- Firestore DB
 - React
 - MUI
 - Zustand (for state management)
